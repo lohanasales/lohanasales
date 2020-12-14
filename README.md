@@ -4,7 +4,7 @@ Oi, Devs!
 Sejam bem-vindos e bem-vindas ao meu github, me chamo Lohana 
 e desde já sou grata a vocês pela visita, espero que gostem e fiquem um pouco mais.
 
-Tenho foco em desenvolvimento WEB e no momento estou estudando sobre HTML e CSS,
+Tenho foco em desenvolvimento WEB e no momento estou estudando sobre HTML,CSS e JavaScript
 para desenvolver sites com resposividade para todos os tipos de telas.
 
 
